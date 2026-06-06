@@ -553,3 +553,8 @@ nav{
         transform: translateY(-4px) scale(1.02);
     }
 }
+@media (max-width: 768px) {
+    .stats {
+        display: none !important;
+    }
+}
