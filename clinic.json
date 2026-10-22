@@ -1,0 +1,18 @@
+{
+  "name_th": "นาวุ้งรักษ์สัตว์",
+  "name_en": "Nawung Animal Clinic",
+  "phone": "095-9744749",
+  "line_url": "https://line.me/ti/p/g6G8t3F7ki",
+  "maps_url": "https://maps.app.goo.gl/twrs9hC4JKyYH91f9",
+  "address": "133/3 หมู่ 8 ตำบลนาวุ้ง อำเภอเมืองเพชรบุรี จังหวัดเพชรบุรี 76000",
+  "opening_hours": "ทุกวัน 08:30–19:00 น.",
+  "currency": "THB",
+  "products": [],
+  "shop_enabled": false,
+  "registration_enabled": false,
+  "laboratory": {
+    "in_house": true,
+    "blood_tests": true,
+    "wait_for_results_at_clinic": true
+  }
+}
